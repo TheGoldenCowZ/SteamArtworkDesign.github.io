@@ -1,0 +1,43 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-image: url("achtergrond 1.png");
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	background-color: black;
+}
+div.lijst{
+    position: fixed;
+    top: : 0;
+    left: center;
+    width: center;
+    text-align: left;
+    font-family: 'Roboto',sans-serif;
+}
+div.footer{
+	position: fixed;
+	bottom: 0;
+	left:  0;
+	widows: 720px;
+	text-align: left;
+	font-family: 'Roboto',sans-serif;
+}
+div.back{
+	position: fixed;
+	top: 0;
+	left: 25px;
+	writing-mode: 500px;
+	text-align: left;
+	font-family: 'Roboto',sans-serif;
+	text-transform: uppercase;
+}
+div.butten-art{
+	position: fixed;
+	top: 250px;
+	margin: 0px;
+	padding: 0px;
+
+
+}
